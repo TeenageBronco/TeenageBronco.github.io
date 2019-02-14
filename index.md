@@ -1,3 +1,9 @@
+theme: jekyll-theme-slate
+# Pablo's Page
+######Pablo's favorite things
+![image of video games](https://github.com/TeenageBronco/TeenageBronco.ithub.io/blob/master/Tetris.jfif)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TeenageBronco/TeenageBronco.ithub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
